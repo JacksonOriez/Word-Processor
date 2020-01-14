@@ -1,1 +1,2 @@
 # Word-Processor
+This project is one that I worked on for my Data Structures and Algorithms class (CS 251 - Purdue University). The word processor is initially an empty Trie that can store words. Once words are added to the trie, you can use it as an autocomplete word generator, much like those used when texting or typing. Once given a string, the program will send back words in the trie that start with the string.
